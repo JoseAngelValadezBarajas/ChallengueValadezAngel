@@ -1,5 +1,3 @@
-
-
 # Backend Coding Challenge
 
 ## Requirements
