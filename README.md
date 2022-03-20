@@ -1,11 +1,15 @@
 # URL DE LA WEB PRINCIPAL "DESPLEGADA CON GOOGLE CLOUD". Link del servicio: https://cloud.google.com/?hl=es
 
+## LINKS DEL DESPLIEGUE:
+
 ## https://challengeangel.uc.r.appspot.com/suggestions?q=Londo&latitude=43.70011&longitude=-79.4163
 
 ## https://challengeangel.uc.r.appspot.com
 
 
 # URL DE LA WEB SECUNDARIA "En caso de que la primera opcion este caida o presente algun problema". Link del servicio: https://www.pythonanywhere.com/
+
+## LINKS DEL DESPLIEGUE:
 
 ## http://angelvalb259.pythonanywhere.com/suggestions?q=Londo&latitude=43.70011&longitude=-79.4163
 
